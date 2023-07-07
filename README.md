@@ -8,7 +8,7 @@ Links to view them online
 
 BikeStores: https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeStores_Gabriel/Dashboard1
 
-## POWER BI:
+## Power BI:
 
 HR Data: https://drive.google.com/drive/folders/1426kuUayuCFoOIVal7EJboVwK3iDrmGD?usp=sharing
 
