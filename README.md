@@ -11,6 +11,7 @@ BikeStores: https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeSto
 ## Power BI:
 
 HR Data: https://drive.google.com/drive/folders/1426kuUayuCFoOIVal7EJboVwK3iDrmGD?usp=sharing
+Call center: https://drive.google.com/drive/folders/1VBJO6egceoGVEM7AODtdwuFOxFpeJOcG?usp=drive_link
 
 ## Cognos:
 
