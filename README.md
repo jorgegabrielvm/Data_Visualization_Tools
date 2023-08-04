@@ -4,10 +4,6 @@ Tableau, Power BI and Cognos Projects
 
 Links to view them online
 
-## Tableau:
-
-- [BikeStores](https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeStores_Gabriel/Dashboard1)
-
 ## Power BI:
 
 - [HR Data](https://drive.google.com/drive/folders/1426kuUayuCFoOIVal7EJboVwK3iDrmGD?usp=sharing)
@@ -15,6 +11,10 @@ Links to view them online
 - [Storytelling with Data](https://drive.google.com/drive/folders/1BTXDLJsNsi384ERcDmjnrQ4BqudO8eu9?usp=drive_link)
 
 - [Call center](https://drive.google.com/drive/folders/1VBJO6egceoGVEM7AODtdwuFOxFpeJOcG?usp=drive_link)
+
+## Tableau:
+
+- [BikeStores](https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeStores_Gabriel/Dashboard1)
 
 ## Cognos:
 
