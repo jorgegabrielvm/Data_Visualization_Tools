@@ -1,6 +1,6 @@
 # Data_Visualization_Tools
 
-Cognos, Tableau and Power BI Projects
+Tableau, Power BI and Cognos Projects
 
 Links to view them online
 
