@@ -6,6 +6,8 @@ Links to view them online
 
 ## Power BI:
 
+- [Chruch Analytics] (https://drive.google.com/drive/folders/1q3o4oSh252oXgUzFZJKAmbOHtN91FXKE?usp=sharing)
+  
 - [HR Data](https://drive.google.com/drive/folders/1426kuUayuCFoOIVal7EJboVwK3iDrmGD?usp=sharing)
 
 - [Work Absenteeism](https://drive.google.com/drive/folders/1k9gmmBFvxsHRg9DGFdS7ODvuHdyLwzhT?usp=sharing)
